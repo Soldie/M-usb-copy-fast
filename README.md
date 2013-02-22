@@ -6,3 +6,5 @@ M is a file backup utility for USB Mass Storage Devices designed to be stealth a
 What you need to build your own M
 =
 M needs .NET Framework 2.0 and Visual Studio 2008 or newer versions.
+
+http://lucasguimaraes.com
