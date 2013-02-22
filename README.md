@@ -7,4 +7,9 @@ What you need to build your own M
 =
 M needs .NET Framework 2.0 and Visual Studio 2008 or newer versions.
 
+
+To download M executable go to:
+http://lucasguimaraes.com/opensoft/
+
+---
 http://lucasguimaraes.com
